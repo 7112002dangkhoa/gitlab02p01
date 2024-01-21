@@ -5,7 +5,7 @@
 # ID: 20018261
 # Author: Lê Đăng Khoa
 # Additional Authors: MR. NAM
-# LêĐăngKhoa20018261
+# LeDangKhoa20018261
 # Input:
 # p, principal amount
 # t, time period in years
